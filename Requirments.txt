@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+requests
+wikipedia
+google-api-python-client
+pyaudio
