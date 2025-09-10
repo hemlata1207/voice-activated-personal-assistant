@@ -16,6 +16,7 @@ print(data.head(), "\n")
 
 # Basic Info
 print("📊 Dataset Info:")
+
 print(data.info(), "\n")
 
 # Summary Statistics
